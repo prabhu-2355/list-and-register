@@ -1,0 +1,14 @@
+{
+  "academyRegister": {
+    "title": "Academy",
+    "academyName": "Academy Info",
+    "name": "Name",
+    "description": "Description",
+    "bankDetails": "Bank Details",
+    "bankName": "Bank Name",
+    "accountNo": "Account No",
+    "ifscCode": "IFSC Code",
+    "upi": "UPI"
+  }
+}
+
